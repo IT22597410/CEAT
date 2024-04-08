@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.573)),
+    url("../CEAT/images/image3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200vh;
+}
+.topic {
+  font-size: 60px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+  margin-top: 40px;
+}
+
+.topic1 {
+  font-size: 70px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+}
